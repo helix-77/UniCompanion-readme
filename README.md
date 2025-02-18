@@ -1,6 +1,7 @@
 # 📚 UniCompanion  
 
 ## 🚀 Overview  
+![App Banner](https://github.com/helix-77/UniCompanion-readme/blob/main/Banner.jpg)
 **UniCompanion** is a **cross-platform mobile app** built with **React Native and Expo** to streamline academic management for students and teachers. It integrates **cloud-based attendance tracking, class management, and assessments**, reducing reliance on multiple platforms like Google Classroom and messaging apps.  
 
 
