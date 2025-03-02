@@ -1,4 +1,4 @@
-# 📚 UniCompanion  
+# 📚 UniCompanion  (on-going)
 
 ## 🚀 Overview  
 ![App Banner](https://github.com/helix-77/UniCompanion-readme/blob/main/Banner.jpg)
